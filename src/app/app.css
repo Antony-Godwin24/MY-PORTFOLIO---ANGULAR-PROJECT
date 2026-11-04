@@ -1,0 +1,34 @@
+.app-shell {
+  min-height: 100vh;
+  background: #ffffff;
+  color: #1a1a1a;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.app-shell-visible {
+  opacity: 1;
+}
+
+.error-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.error-box {
+  max-width: 450px;
+}
+
+.error-title {
+  font-weight: 800;
+  color: #1a1a1a;
+  margin-bottom: 0.5rem;
+}
+
+.error-desc {
+  color: #666666;
+}

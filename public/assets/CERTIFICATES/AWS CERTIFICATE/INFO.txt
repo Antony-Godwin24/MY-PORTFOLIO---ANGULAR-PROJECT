@@ -1,0 +1,19 @@
+Title: AWS Certified Cloud Practitioner
+
+Issued By:
+Amazon Web Services (AWS)
+
+Date:
+March 2026
+
+Description:
+Completed AWS Cloud Practitioner certification covering core cloud concepts, AWS services, security, and pricing models.
+
+Key Learnings:
+- Cloud computing fundamentals (IaaS, PaaS, SaaS)
+- AWS core services (EC2, S3, IAM, VPC)
+- Security and identity management using IAM
+- Basic architecture principles for scalable and reliable systems
+
+Relevance:
+Strengthened understanding of cloud-based system design, deployment, and scalability, supporting development of production-ready applications.

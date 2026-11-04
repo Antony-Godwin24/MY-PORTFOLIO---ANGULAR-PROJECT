@@ -1,0 +1,19 @@
+## Technical Skills
+
+### Languages
+Java, JavaScript, Python, C, C++
+
+### Frontend
+React.js, HTML, CSS, Material-UI
+
+### Backend
+Node.js, Express.js, Spring Boot, REST APIs, JWT
+
+### Databases
+MySQL, PostgreSQL, MongoDB
+
+### Tools & Architecture
+Git, GitHub, Postman, Vercel, bcrypt
+
+### Cloud
+AWS – Certified Cloud Practitioner

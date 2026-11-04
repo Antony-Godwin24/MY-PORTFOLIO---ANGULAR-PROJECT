@@ -1,0 +1,47 @@
+@if (showLoader) {
+  <app-loader></app-loader>
+}
+
+@if (error && !showLoader) {
+  <div class="error-container">
+    <div class="error-box">
+      <h2 class="error-title">Failed to load portfolio</h2>
+      <p class="error-desc">{{ error }}</p>
+    </div>
+  </div>
+}
+
+@if (data) {
+  <div class="app-shell" [class.app-shell-visible]="!showLoader">
+    <app-navbar [resumeUrl]="data.profile.resumeUrl"></app-navbar>
+
+    <main>
+      <!-- 1. Hero -->
+      <app-hero [profile]="data.profile"></app-hero>
+
+      <!-- 2. Education -->
+      <app-education
+        [education]="data.education"
+        [strongSubjects]="data.strongSubjects"
+      ></app-education>
+
+      <!-- 3. Skills -->
+      <app-skills [skills]="data.skills"></app-skills>
+
+      <!-- 4. Experience (Internships) -->
+      <app-internships [internships]="data.internships"></app-internships>
+
+      <!-- 5. Projects -->
+      <app-projects [projects]="data.projects"></app-projects>
+
+      <!-- 6. Certificates -->
+      <app-certificates [certificates]="data.certificates"></app-certificates>
+
+      <!-- 7. Hackathons & Achievements -->
+      <app-hackathons [hackathons]="data.hackathons"></app-hackathons>
+    </main>
+
+    <!-- Executive Corporate Footer -->
+    <app-footer [profile]="data.profile"></app-footer>
+  </div>
+}

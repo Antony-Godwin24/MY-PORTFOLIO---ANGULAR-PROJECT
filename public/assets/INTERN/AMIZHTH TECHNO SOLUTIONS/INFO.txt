@@ -1,0 +1,21 @@
+Company: Amizhth Techno Solutions
+
+Role:
+React.js Developer Intern
+
+Duration:
+September 2025 – December 2025
+
+Work:
+Focused on frontend development and building reusable UI components for web applications.
+
+What I Did:
+- Developed reusable React.js components using Material-UI
+- Integrated frontend with backend APIs using Axios
+- Optimized client-side state handling for better performance
+
+Tech:
+React.js, Material-UI, Axios
+
+Learning:
+Improved skills in frontend architecture, component design, and API integration.

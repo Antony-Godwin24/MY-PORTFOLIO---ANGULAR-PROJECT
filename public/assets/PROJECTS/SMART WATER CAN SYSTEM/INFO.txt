@@ -1,0 +1,37 @@
+Title: Smart QR Water Can Monitoring System (AURA’24)
+
+Problem:
+Plastic water cans are widely reused without proper tracking, leading to contamination, bacterial growth, and serious health risks due to overuse and poor maintenance.
+
+Solution:
+Developed a QR-based system that tracks each water can’s usage, refilling cycles, and quality status through a centralized platform.
+
+Tech:
+Node.js, Express.js, MySQL, QR Code Integration
+
+My Role:
+Designed and implemented the backend system, QR-based tracking logic, and data management for monitoring water can lifecycle.
+
+Key Features:
+- Unique QR code assigned to each water can
+- Tracks usage count and refilling history
+- Prevents usage beyond safe lifecycle limits
+- Ensures quality validation before reuse
+- Enables transparency for both users and suppliers
+
+System Design:
+- Centralized database to store usage and refilling data
+- QR-based identification for each water can
+- Validation logic to restrict unsafe usage
+- Real-time tracking and lifecycle monitoring
+
+Impact:
+Improves water safety, reduces health risks, and introduces a scalable system for monitoring reusable containers.
+
+Achievement:
+🥉 3rd Prize – AURA’24 Technical Hackathon (100+ teams)
+
+Extension:
+This project aligns with my patent work on improving water can quality using QR-based tracking systems.
+
+AND GOT A PATENT FOR THIS

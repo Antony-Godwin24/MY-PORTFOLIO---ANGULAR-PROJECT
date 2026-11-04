@@ -1,0 +1,40 @@
+Title: Claridux – Strategic OS for Academic & Career Mastery
+
+Live:
+https://claridux.vercel.app/
+
+GitHub:
+https://github.com/Antony-Godwin24/Claridux/
+
+Problem:
+Students often struggle to understand concepts clearly and lack visibility into their job readiness. Learning is fragmented, and there is no system to identify what to improve or what to focus on next.
+
+Solution:
+Developed Claridux, a full-stack AI-driven system that transforms academic content into structured, actionable learning paths using a closed-loop model.
+
+Tech:
+React.js (Vite), Node.js, Express.js, PostgreSQL (Neon), Gemini AI, Cohere AI, JWT, Firebase Admin
+
+My Role:
+Designed and developed the complete system, including frontend, backend, and AI integration.
+
+Key Features:
+- PRS (Productivity Readiness Score) to measure real-time job readiness
+- Skill gap detection based on user learning data
+- Mission-based learning system for structured execution
+- Multi-mode AI learning (Deep, Story, Exam, Interview)
+- Mock interview system with AI-based feedback
+- Resume analysis with gap identification
+
+System Design:
+- Multi-model AI orchestration (Gemini + Cohere)
+- Stateless authentication using JWT
+- Secure backend with middleware (Helmet, XSS protection)
+- Scalable database design using PostgreSQL
+- Real-time tracking and analytics
+
+Impact:
+Converts unstructured learning into a measurable and goal-driven system, helping students move from confusion to clear career readiness.
+
+Insight:
+Built from a personal problem — the difficulty in understanding concepts and knowing what to do next — and transformed into a system that solves it at scale.

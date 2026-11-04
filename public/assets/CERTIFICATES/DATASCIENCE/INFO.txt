@@ -1,0 +1,19 @@
+Title: Data Science for Beginners
+
+Issued By:
+Board Infinity
+
+Date:
+April 2026
+
+Description:
+Completed a foundational course in data science covering data analysis, basic machine learning concepts, and real-world data handling.
+
+Key Learnings:
+- Data preprocessing and analysis fundamentals
+- Introduction to machine learning concepts
+- Working with datasets and extracting insights
+- Understanding data-driven decision making
+
+Relevance:
+Improved ability to work with structured data and apply analytical thinking in building intelligent systems.

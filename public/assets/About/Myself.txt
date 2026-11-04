@@ -1,0 +1,15 @@
+I am a Full Stack Developer focused on building real, scalable systems rather than just isolated features. I work across both frontend and backend, combining user-friendly interfaces with strong system architecture.
+
+My primary stack includes Java Spring Boot, React.js, Node.js, Express.js, MySQL, and PostgreSQL. I design applications with a focus on clean architecture, REST API design, authentication, and production-level reliability.
+
+I have hands-on experience through multiple internships. At Zoho Corporation, I built CRM extensions using Zoho Sigma and Deluge, focusing on duplicate detection and workflow automation. At Amizhth Techno Solutions, I worked on frontend development using React.js, building reusable components and integrating APIs. Currently, at Techpuram, I am working on a multi-tenant SaaS AI platform, contributing to scalable modules, adaptive workflows, and real-time system features.
+
+One of my key projects is Claridux, a Strategic OS for Academic and Career Mastery. The idea came from my own difficulty in understanding concepts clearly and knowing what to focus on next. I built Claridux as a system that measures job readiness using a Productivity Readiness Score (PRS), identifies skill gaps, and generates actionable learning paths. It follows a closed-loop model to continuously improve outcomes.
+
+I have actively participated in hackathons and achieved strong results, including First Prize at TECHELITE’26 and ZYRON’26, and Third Prize at AURA’24. These experiences strengthened my ability to work under pressure, think clearly, and deliver functional systems within constraints.
+
+I also hold a patent titled “A System for Enhancing Quality of Water Can through QR Code,” which focuses on improving public health and sustainability by tracking water can usage and quality.
+
+Technically, I am comfortable working with REST APIs, authentication systems using JWT and bcrypt, database design, and building end-to-end applications. I also have foundational knowledge in cloud systems through AWS (EC2, S3, IAM) and experience working with AI-based systems such as RAG pipelines.
+
+I focus on building systems that solve real problems, are scalable, and can be used in real-world environments. My goal is to grow as a developer by working on impactful products and contributing to strong engineering teams.

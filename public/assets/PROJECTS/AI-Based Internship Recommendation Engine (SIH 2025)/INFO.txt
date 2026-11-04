@@ -1,0 +1,47 @@
+Title: AI-Based Internship Recommendation Engine (SIH 2025)
+
+GitHub:
+https://github.com/Antony-Godwin24/Al-Based-Internship-Recommendation-Engine-for-PM-Internship-Scheme
+
+Problem:
+Students struggle to find relevant internships due to lack of personalized guidance and overwhelming options, leading to inefficient and random applications.
+
+Solution:
+Developed an AI-based recommendation system that analyzes student profiles and matches them with suitable internships using similarity-based algorithms.
+
+Tech:
+Python, TF-IDF, Cosine Similarity, Node.js, WhatsApp API
+
+My Role:
+Designed and implemented the recommendation engine, handled data processing, and integrated automated delivery of results.
+
+Key Features:
+- Personalized internship recommendations based on user profile
+- Similarity matching using TF-IDF and cosine similarity
+- Automated notification system via WhatsApp
+- Efficient filtering of relevant opportunities
+
+System Design:
+- Text vectorization using TF-IDF
+- Similarity scoring using cosine similarity
+- Backend processing for recommendation generation
+- Integration with messaging system for real-time alerts
+
+Impact:
+Improves relevance of internship opportunities and reduces manual search effort for students.
+
+Context:
+Developed as part of Smart India Hackathon (SIH 2025), focusing on solving real-world student career challenges.
+
+Accessibility Enhancement:
+
+Designed an SMS and IVR-based interaction model to make the system accessible for users without smartphones or internet access.
+
+Key Features:
+- SMS-based internship recommendations and application flow
+- IVR (voice call) system for guided user interaction
+- Multilingual support for regional accessibility
+- No dependency on internet or smartphone devices
+
+Impact:
+Extends access to internship opportunities for rural and economically disadvantaged users, ensuring wider reach and digital inclusion.

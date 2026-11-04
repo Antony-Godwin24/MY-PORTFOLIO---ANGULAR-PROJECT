@@ -1,0 +1,22 @@
+Company: Zoho Corporation
+
+Role:
+Zoho Marketplace / Extension Developer Intern
+
+Duration:
+July 2025 – August 2025
+Team: Marketplace
+
+Work:
+Worked on building a Zoho CRM extension focused on detecting duplicate leads across multiple modules.
+
+What I Did:
+- Developed a Duplicate Detection Extension using Zoho Sigma and Deluge
+- Implemented phone and email-based validation logic within the Leads module
+- Customized workflows and automation for data consistency
+
+Tech:
+Zoho CRM, Zoho Sigma, Deluge
+
+Learning:
+Gained experience in CRM systems, business workflow automation, and real-world enterprise application development.

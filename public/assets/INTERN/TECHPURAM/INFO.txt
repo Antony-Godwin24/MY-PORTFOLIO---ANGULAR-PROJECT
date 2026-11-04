@@ -1,0 +1,21 @@
+Company: Techpuram
+
+Role:
+Software Developer Intern
+
+Duration:
+April 2026 – Present
+
+Work:
+Working on a multi-tenant SaaS AI platform focused on personalized education and adaptive learning systems.
+
+What I Did:
+- Contributing to development of scalable modules for student learning and assessment
+- Implementing adaptive workflows for curriculum-based learning
+- Supporting real-time performance tracking and system features
+
+Tech:
+React.js, Node.js, PostgreSQL (based on usage)
+
+Learning:
+Gaining hands-on experience in SaaS architecture, multi-tenant systems, and production-level application development.

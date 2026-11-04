@@ -1,0 +1,38 @@
+Title: AI-Powered Personal Farming Assistant (SIH 2025)
+
+GitHub:
+https://github.com/Antony-Godwin24/Al-Powered-Personal-Farming-Assistant-for-Kerala-Farmers
+
+Problem:
+Smallholder farmers in Kerala lack access to personalized, timely, and localized agricultural guidance. Existing systems are generic, English-based, and not accessible to farmers with low digital literacy.
+
+Solution:
+Developed an AI-powered farming assistant that provides personalized crop advice, weather alerts, and guidance using voice and text in the local language.
+
+Tech:
+React Native, Node.js (Express.js), MySQL, Rasa NLU, AI/NLP APIs
+
+My Role:
+Contributed to system design and backend development, including handling user interaction logic and integrating AI-based responses.
+
+Key Features:
+- Voice and text-based interaction for ease of use
+- Malayalam language support for accessibility
+- Personalized crop advisory based on farm data
+- Real-time weather and disaster alerts (floods, rainfall)
+- Activity tracking for farming operations
+
+System Design:
+- Mobile app interface connected to backend APIs
+- AI/NLP engine (Rasa) for understanding user queries
+- Database for storing farm data and activity logs
+- Real-time alert system based on location and conditions
+
+Impact:
+Improves accessibility to modern farming knowledge, helps farmers make better decisions, and reduces risks from climate and environmental changes.
+
+Context:
+Developed as part of Smart India Hackathon (SIH 2025) under Agriculture & Rural Development theme.
+
+Insight:
+Focused on inclusivity by designing a system that works for users with low digital literacy through voice-first interaction.

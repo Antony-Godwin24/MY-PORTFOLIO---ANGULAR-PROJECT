@@ -1,0 +1,20 @@
+Event: ZYRON’26
+
+Level:
+National Level Symposium
+
+Organized By:
+Department of Electronics and Communication Engineering,
+Government College of Engineering, Sengipatti
+
+Date:
+April 2026
+
+Achievement:
+First Prize
+
+What I Did:
+Participated under time constraints and built a functional web solution from scratch, focusing on clean UI and structured implementation.
+
+Learning:
+Execution under pressure, confidence in problem-solving, and clear technical explanation to judges.

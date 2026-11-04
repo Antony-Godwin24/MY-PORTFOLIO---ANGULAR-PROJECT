@@ -1,0 +1,22 @@
+Event: TECHELITE’26
+
+Level:
+National Level Technical Hackathon
+
+Organized By:
+Sri Bharathi Engineering College for Women
+
+Date:
+March 2026
+
+Achievement:
+First Prize
+
+Project:
+Claridux – Strategic OS for Academic & Career Mastery
+
+What I Did:
+Presented an AI-driven system that identifies skill gaps, generates missions, and tracks job readiness using PRS.
+
+Learning:
+System design thinking, real-world problem solving, and presenting technical solutions to evaluators.

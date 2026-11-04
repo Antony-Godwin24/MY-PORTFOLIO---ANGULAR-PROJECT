@@ -1,0 +1,34 @@
+https://github.com/Antony-Godwin24/TrafficViolationSystem
+
+Title: AI-Based Traffic Violation Detection System
+
+Problem:
+Manual monitoring of traffic violations is inefficient, error-prone, and not scalable for real-time enforcement in high-traffic areas.
+
+Solution:
+Developed a computer vision-based system that detects traffic violations from image and video inputs using machine learning models.
+
+Tech:
+Python, OpenCV, NumPy, TensorFlow/PyTorch, YOLO/MediaPipe, Flask/Streamlit
+
+My Role:
+Implemented the detection pipeline, integrated ML models for object detection, and built the interface for processing video/image inputs.
+
+Key Features:
+- Detects traffic violations from CCTV or uploaded video/images
+- Supports real-time and batch processing
+- Logs violations with timestamp, type, and confidence score
+- Optional dashboard/API for monitoring and alerts
+
+System Design:
+- Input layer for video/image streams
+- ML model (YOLO/CNN) for object detection and classification
+- Processing pipeline for extracting violations
+- Logging system for storing results and metadata
+- Optional UI layer using Flask/Streamlit
+
+Impact:
+Automates traffic monitoring, reduces dependency on manual supervision, and improves efficiency in identifying violations.
+
+Insight:
+Focused on applying computer vision techniques to a real-world urban problem, emphasizing automation and scalability.

@@ -1,0 +1,177 @@
+FORM 2
+
+THE PATENTS ACT, 1970
+ (39 of 1970)
+&
+THE PATENTS RULES, 2003
+ 
+COMPLETE SPECIFICATION
+(See Section 10; rule 13)
+ 
+TITLE OF THE INVENTION
+A SYSTEM FOR ENHANCING QUALITY OF WATER CAN THROUGH QR CODE
+APPLICANT
+K.RAMAKRISHNAN COLLEGE OF ENGINEERING
+NH-45, Samayapuram,
+Trichy, Tamilnadu, India– 621112
+ 
+ 
+The following specification particularly describes the invention and the manner in which it is to be performed.
+A SYSTEM FOR ENHANCING QUALITY OF WATER CAN THROUGH QR CODE 
+
+TECHNICAL FIELD
+The present invention relates to the field of quality management and control. More specifically, the present invention is related to developing a solution for drinking safe water and promoting sustainability ,in our day to day life.
+
+BACKGROUND
+So in our day to day life plastic cans are used very essentially. In India most  of the  people use plastic water cans for their drinking purposes.so here the main problem is the plastic water cans are not maintained properly. when the plastic water cans are not maintained the water cans can be damaged which leads to creation of micro bacteria that could affect human health.
+This may lead to many health issues like cholera, diarrhea, typhoid ,polio and more.Also due to the temperature changes in  India, the water is affected which leads to disease.
+Also we need to create an awareness of how the water cans are maintained and what are drawbacks that occur while the water cans are not maintained properly to the people.
+To give a solution for this problem manufactures and industry stakeholders must prioritize the maintenance of the water can that must avoid the health issues from the water cans 
+
+OBJECT OF THE INVENTION
+
+The primary objective of the invention is to address the prevalent problem of insufficient awareness on drinking plastic water can, which can lead to severe health issues and disorders in health , when used more than a certain time. 
+Another objective is to provide a comprehensive solution by leveraging the can mechanism by molding and providing a unique identification on each cans to seamlessly monitor the condition of the can.
+Another key objective is to enhance the efficiency of human health and body. By fixing up a certain usage limit on a can provides a clear insight upto which the can can be circulated. 
+Yet another object of the present invention is to promote sustainability and reduce dependence on manual checks on the water cans and its management. Using the scanner mechanisms , the refill and the usage count are ensured to be same and the water can refilling cycle continues until it's safe limit.
+Yet another object of the present invention is to provide a cost-effective and scalable solution that can be implemented across various water can systems. By integrating readily the molded water cans will create a solution accessible to many consumers. 
+These and other objects and advantages of the present invention will become readily apparent from the following detailed description taken in conjunction with the accompanying drawings.
+
+
+
+
+
+
+SUMMARY
+The various health issues are often raised due to the bacterias and germs that are present in the edible sources that are needed in our day to day life.
+
+Water is a universal intake of whole organisms which help them in body regulation. When the water source is not hygienic, it will cause a decline in health.
+
+Due to the population , the plastics are widely used to carry the drinking water for the mass. While there is a chance for the plastic micro-molecules to react with the water , the quality of the water may affect.
+
+Hence by incorporating the concept of the molded can, and by the use of scanner systems, the quality of the drinking water is checked and the safe drinking water is provided to the consumer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BRIEF DESCRIPTION OF THE FIGURES
+	The flowchart indicates a standardized process through which one monitors and follows the usage of the water cans in terms of having a molded QR code. The procedure begins with the scanning of the QR code on the water can by a user to lead the user to a website for checks on the quality of content in the water can. At this stage, the system will start monitoring the quality of water. If the water is qualified, then the user moves on to the next step, which is the payment process. Otherwise, if water quality is unsatisfactory, the process ends because this can may not be used.
+
+User, having passed the quality check, moves on to a payment process for cans. Here, he or she may obtain two types of payment: online and offline. A digital gateway may be deployed while the online payment is processing, but the payment made in an offline environment might have been over in terms of cash or any other form of nondigital means. And after making the payment, the water can under goes verification whether it is successfully paid or not. If the payment was successful then the system increases usage count for that particular water can and writes the time stamp for how many times the same is used. This step captures the usage of the can, though it may also encourage the usage of reusable containers to ensure environmental sustainability. The process is a culminating one once the verification of payment is confirmed, meaning all the steps have been met if the water can turns out to be of quality or the process was terminated in case the inspection fails. This flowchart highlights the systematic procedure on both sides-water can quality management and secure payment with usage captured through QR code technology.
+
+
+
+
+
+
+DETAILED DESCRIPTION
+The integration of QR code technology into the plastic water can system not only addresses immediate public health concerns but also creates a foundation for long-term sustainability and quality assurance in water distribution. As the global population continues to grow and urbanization spreads, the demand for safe, hygienic, and reliable drinking water sources becomes even more pressing. With plastic water cans being a primary method for storing and distributing water, ensuring their safety and integrity is crucial. The QR code system, by providing an effective means to track and manage the usage and condition of each water can, helps mitigate health risks associated with waterborne diseases, thus contributing to public well-being on a global scale.
+
+In many developing nations, waterborne diseases are a leading cause of illness and death, particularly in regions where access to clean and safe water is limited. Traditional water storage and distribution methods often lack mechanisms for monitoring the condition of containers, leaving consumers vulnerable to drinking contaminated water. By embedding QR codes into plastic water cans, the system creates a robust method for tracking usage history, refilling counts, and overall water can quality. This allows for timely identification of when a water can reaches the end of its safe usage life, preventing its continued use once it becomes a potential health hazard.
+
+The ability to track each water can's usage and condition in real time is an essential feature of this system. The database that holds the information tied to each QR code provides a centralized repository of data that can be accessed by both consumers and suppliers. For consumers, this transparency is vital, as it allows them to make informed decisions about whether or not they should continue using a particular water can. The real-time data helps users avoid situations where they might unknowingly use a compromised water can, thus reducing the risk of contamination and ensuring that the water they consume remains safe and clean.
+
+Moreover, this system ensures that water cans are not only used within their safe limits but also that they are refilled with clean water. The refilling process is another critical aspect of water safety. If refilled improperly, a water can may become a source of contamination, leading to bacterial growth and other health issues. By integrating a scanner into the refilling stations that reads the QR code on the bottom of each can, the system ensures that only cans that are within safe usage limits are allowed to be refilled. This mechanism prevents the refilling of compromised cans, thus helping to preserve the quality and safety of the water contained within.
+
+As the water can progresses through its lifecycle, the system ensures that all transactions — whether it is a purchase or a refill — are properly logged and tracked. The automated updates ensure that the usage count and refilling count are always accurate, with the data stored in a secure, centralized database. This automated tracking minimizes human error, providing consumers and suppliers with reliable and up-to-date information. Whenever a consumer scans the QR code, the most recent data regarding the can’s usage and quality is instantly displayed, providing clear indicators of whether the can is still safe for use.
+
+When the system detects that the usage count has reached the pre-set limit, it automatically flags the water can as being in poor quality, preventing its further use. This ensures that consumers are not using containers that could potentially harbor harmful bacteria or deteriorate to a point where they no longer offer safe storage. It is an essential feature that proactively addresses the issue of plastic container degradation, something that would be nearly impossible to track manually, especially with large quantities of water cans in circulation.
+
+For suppliers, the ability to track and monitor the status of their water can inventory is invaluable. The database can be used to identify which cans are nearing the end of their safe usage life, allowing suppliers to remove these cans from circulation before they can be refilled or sold. This automated inventory management system helps suppliers reduce waste and improve overall operational efficiency. Additionally, by being able to identify substandard or expired cans in real time, suppliers can ensure that only safe and hygienic products are distributed to the market, thereby enhancing customer satisfaction and brand reliability.
+
+This system also represents a major step forward in improving supply chain transparency. Traditionally, the journey of a water can from the factory to the end consumer has been a black box, with little visibility into the condition of the product once it leaves the manufacturing facility. By integrating QR codes and real-time tracking, this system creates an open and transparent supply chain, where every step in the lifecycle of the water can is traceable. This transparency builds trust with consumers, who can verify the safety and quality of their water cans before purchase. It also allows regulators and third-party organizations to monitor the safety and hygiene standards of water distribution companies, helping to ensure compliance with public health guidelines.
+
+While many technological solutions aim to improve safety and health standards, few are as scalable and user-friendly as the QR code system for tracking plastic water cans. The QR code itself is an affordable and easy-to-implement solution that can be added to existing manufacturing processes without requiring extensive changes to production lines. Once implemented, the system can scale easily, allowing for widespread adoption in a variety of regions and markets. Whether the user is in an urban setting with access to smartphones or in a rural area where technology penetration is lower, the system remains accessible and effective. For users without smartphones, the system provides an offline option by sending a One-Time Password (OTP) to a registered mobile number, enabling users to verify the quality of their water cans and proceed with the transaction. This makes the system inclusive, catering to a broader demographic while ensuring that safety standards are upheld across the board.
+
+An often overlooked aspect of water safety is the environmental impact of single-use plastic water cans. These containers, while convenient, contribute significantly to plastic waste, which poses a serious environmental challenge. The QR code system indirectly helps to mitigate this issue by encouraging the proper disposal and recycling of plastic water cans. By integrating a recycling mechanism that allows the materials used in the QR codes to be melted down and reused, the system reduces waste and supports a circular economy. This not only helps to lessen the environmental footprint of plastic water cans but also contributes to the broader goal of sustainability. By reusing materials and ensuring that the plastic cans are used within their optimal life cycle, the system promotes both environmental and public health goals simultaneously.
+
+In addition to its primary function of tracking water can usage and ensuring water quality, this system could potentially be expanded to address other issues related to hygiene and public health. For instance, the technology could be adapted to track other types of consumable goods, such as milk cartons, beverage bottles, or even food packaging, where similar concerns around degradation and contamination exist. By leveraging QR code technology for these other applications, the system could contribute to the broader goal of improving food safety and preventing the spread of foodborne illnesses.
+
+The future of this technology may also see the integration of more advanced features, such as predictive analytics, to further enhance the system’s capabilities. For instance, machine learning algorithms could be used to predict when a plastic water can is likely to reach its usage limit, based on historical data and usage patterns. This would allow consumers and suppliers to proactively manage water can lifecycles, ensuring that cans are replaced or recycled before they reach an unsafe state. This predictive capability would further streamline the entire process, reducing the risk of contamination and providing even more efficient oversight of water can usage.
+
+The system could also incorporate other forms of monitoring, such as environmental sensors embedded in the water cans or refilling stations. These sensors could detect factors like temperature, humidity, or bacterial growth within the water can, providing real-time data on the condition of both the can and its contents. Such data could be used to make further refinements to the tracking system, offering an even higher level of precision in monitoring water quality. By combining QR code tracking with additional sensors and analytics, the system could evolve into a comprehensive, high-tech solution for water safety that is both proactive and reactive in preventing contamination.
+
+In conclusion, the integration of QR codes into plastic water cans is a transformative innovation with far-reaching implications for public health, environmental sustainability, and consumer safety. By tracking and managing the usage and quality of water cans in real time, this system helps to prevent the spread of waterborne diseases and ensures that only safe, hygienic water is consumed. It provides a scalable, cost-effective solution that can be easily adopted by both consumers and suppliers, offering transparency and accountability throughout the entire lifecycle of the water can. Moreover, by promoting recycling and sustainability, the system contributes to broader environmental goals, reducing the plastic waste generated by single-use containers. The potential applications of this technology extend far beyond water cans, offering the possibility to improve food safety and hygiene across various industries. With the continued development of this system and the integration of advanced technologies such as predictive analytics and environmental sensors, the future of water safety and hygiene looks brighter, offering a cleaner, healthier, and more sustainable world for all.
+
+
+Albert Francis 
+Applicant Agent (INPA – 4655)
+
+
+
+
+
+CLAIMS
+We claim,
+1.  A System For Enhancing quality Of Water Can Through QR Code 
+Comprising :
+
+a QR code is generated individually for the can then it is molded on the plastic water can which allows the user to check the Quality of the plastic water can;
+
+a molded QR code scanned from the water can redirects the user to the website which displays the quality of the plastic water can whether the can is good \or bad;
+
+a molded QR code also shows the number of times the  used count and also the refilling count of the plastic water can to the user ;
+
+a molded QR code redirects the user to the payment page only if the   Quality of the plastic water can  is good and if the quality of the plastic water can is bad the user is not allowed to payment page;
+
+a payment can be made by the user in two ways online and offline,then after the payment is completed the usage of the water can is updated in the website;
+
+a scanner is used to monitor the refilling process of the plastic water can also it checks whether the usage of plastic water can and refilling of water can should be the same; and,
+
+
+a website is mainly used to show the Quality of the plastic water can and to redirect to the payment methods.
+
+2. A System For Enhancing Quality Of Water Can Through QR Code as claimed in claim 1, wherein the system further comprises a sensor which increases the refilling count of the plastic water can and maintains the real-time data with the database.
+
+3. A System For Enhancing Quality Of Water Can Through QR Code  as claimed in claim 1, The refilling count will be checked with the used count of the plastic water can during the quality check of the plastic water can. If the used count is one less than the refilling count the quality of the plastic can will be agreed.
+
+4. A System For Enhancing Quality Of Water Can Through QR Code as claimed in claim 1,the official website is used to check the Quality of the plastic water can, compare the refilling count with the used count and show the details to the user. 
+
+5.A System For Enhancing Quality Of Water Can Through QR Code as claimed in claim 1, The official website is used for payment options. The website will be redirected to the payment options(Online or Offline Payments) only if the Quality of the plastic water can is good.
+
+6. A System For Enhancing Quality Of Water Can Through QR Code as claimed in claim 1,If the Quality of the plastic water can is bad, the payment options will not be enabled and the process will end.
+
+7. A System For Enhancing quality Of Water Can Through QR Code as claimed in claim 1,During the payment methods, if the payment option is online payment, the website uses online payment apps and let the user to pay the amount using the online payment apps thus the used count will be incremented after the payment process.
+
+8. A System For Enhancing Quality Of Water Can Through QR Code as claimed in claim 1, During the payment method, if the payment option is offline,The One Time Password is sent to the registered users mobile phone and when entered, the payment options will be done and the used count will be incremented.
+
+9.A  scanner is used to monitor the refilling process of the plastic water can also it checks whether the usage of plastic water can and refilling of water can should be the same. if it is same the refilling will takes place and after refilling process it is scanned again to increment the count of  refilling.
+
+
+Albert Francis 
+Applicant Agent (INPA – 4655)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABSTRACT
+
+A SYSTEM FOR ENHANCING QUALITY OF WATER CAN THROUGH QR CODE
+
+The increasing use of plastic water cans for storing and distributing drinking water presents significant health risks due to potential contamination from degraded containers. This paper proposes a solution using QR code technology embedded into plastic water cans to track their usage, refilling history, and quality. Each can is assigned a unique QR code that links to a centralized database, providing real-time data on the can’s condition and ensuring it remains within safe usage limits. Consumers can scan the QR code to access information about the can’s history and quality, and the system automatically flags cans that exceed their usage threshold as unsafe. The system also integrates online and offline payment methods, making it accessible to a wide range of users. This innovative approach improves water safety, reduces the spread of waterborne diseases, supports environmental sustainability by promoting recycling, and enhances transparency in the water distribution process, contributing to public health and safety.
